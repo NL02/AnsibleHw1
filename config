@@ -2,7 +2,7 @@ server {
 	listen 80 default_server;
 	listen [::]:80 default_server;
 
-	root /var/www/html;
+	root /var/www/neliang.cse356.compas.cs.stonybrook.edu;
 
 	index hw0.html;
 
